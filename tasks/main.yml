@@ -1,0 +1,5 @@
+---
+# tasks file for samplerole
+- name: A sample task in a sample role 
+  debug: 
+    msg: "This is a sample role"
